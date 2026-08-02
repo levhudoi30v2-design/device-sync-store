@@ -1,0 +1,11 @@
+Source: Screaming Brain Studios - "Tiny Texture Pack 3" (Medium), itch.io
+License: CC0 1.0 Universal (public domain) - https://creativecommons.org/publicdomain/zero/1.0/
+"All Screaming Brain Studios assets have been released under the CC0/Public
+Domain License. You are free to use these assets in any and all projects,
+commercial or non-commercial, with no restrictions, and can be released
+with or without credit." (from the pack's own License.txt)
+
+Files here are resized (72x72, JPEG q78) derivatives of the original
+256x256 PNGs, prepared as small cached-download thumbnails for
+NovaStudio's GitTextures library. Categories: Animal, Box, Cloth,
+Elements, Gem, Grating, Metal, Stone, Terrain, Weave (24 textures each).

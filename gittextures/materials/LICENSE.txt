@@ -1,0 +1,7 @@
+Source: Kenney "Platformer Pack: Bricks" (kenney.nl)
+License: CC0 1.0 Universal (public domain) — https://creativecommons.org/publicdomain/zero/1.0/
+
+Files here are cropped-to-square + upscaled (nearest-neighbor, 128x128)
+derivatives of the original sprite tiles, prepared for use as seamless
+material swatches (grass/dirt/sand/snow/mud/stone/brick/castle wall/magic)
+in NovaStudio's GitTextures library.

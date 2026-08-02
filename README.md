@@ -1,2 +1,17 @@
 # nova_port_assets
-Public CC0 texture assets for NovaStudio GitTextures (auto-fetched at runtime, not bundled in the app)
+
+Публичный репозиторий с CC0-текстурами для GitTextures в NovaStudio.
+
+Основной репозиторий движка (`nova_port`) закрытый — этот репозиторий
+существует отдельно только потому, что `raw.githubusercontent.com`
+не отдаёт файлы из приватных репо без авторизации, а мобильное
+приложение не хранит в себе никаких токенов.
+
+Ничего секретного здесь нет: только лицензированные под CC0
+(общественное достояние) изображения текстур с указанием источника
+в LICENSE.txt каждой папки. Текстуры скачиваются приложением на
+устройстве по требованию и кэшируются локально — в APK не зашиты.
+
+## Содержимое
+- `gittextures/materials/` — Kenney "Platformer Pack: Bricks" (CC0)
+- `gittextures/sbs/` — Screaming Brain Studios "Tiny Texture Pack 3" (CC0)
